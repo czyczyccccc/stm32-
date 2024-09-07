@@ -1,0 +1,4 @@
+../Drivers/SYSTEM/usart/usart.c:30:1:__io_putchar	16	static
+../Drivers/SYSTEM/usart/usart.c:56:6:MX_USART1_UART_Init	8	static
+../Drivers/SYSTEM/usart/usart.c:88:6:HAL_UART_MspInit	56	static
+../Drivers/SYSTEM/usart/usart.c:151:6:HAL_UART_RxCpltCallback	16	static

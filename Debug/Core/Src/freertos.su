@@ -1,0 +1,5 @@
+../Core/Src/freertos.c:111:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:162:6:Start_Task	24	static
+../Core/Src/freertos.c:204:6:SG90_Task	32	static
+../Core/Src/freertos.c:260:6:RC522_Task	16	static
+../Core/Src/freertos.c:311:6:esp8266_Task	24	static
